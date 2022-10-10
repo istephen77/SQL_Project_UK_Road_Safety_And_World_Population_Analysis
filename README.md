@@ -1,5 +1,4 @@
-# SQL_Project_UK_Road_Safety_And_World_Population_Analysis
-
+# SQL Data Analysis of UK Road Safety measures and World Population
 Data Set Source : 
 
 Population Data : https://www.cia.gov/the-world-factbook/field/population/country-comparison
